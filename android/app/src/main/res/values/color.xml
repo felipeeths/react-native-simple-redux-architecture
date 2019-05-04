@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <color name="colorAccent"> #fcbf16 </color>
+    <color name="primary_dark">#000000</color>
+    <color name="blue">#FCBF16</color>
+</resources>
